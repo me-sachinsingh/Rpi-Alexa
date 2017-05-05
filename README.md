@@ -1,10 +1,10 @@
-![](../../wiki/assets/alexa-logo-3.png)
+![](https://github.com/alexa/alexa-avs-sample-app/wiki/assets/alexa-logo-3.png)
 
 ## About the project
 
-This project provides a step-by-step walkthrough to help you build a **hands-free** [Alexa Voice Service](https://developer.amazon.com/avs) (AVS) prototype in 60 minutes, using wake word engines from [Sensory](https://github.com/Sensory/alexa-rpi) or [KITT.AI](https://github.com/Kitt-AI/snowboy). Now, in addition to pushing a button to "start listening", you can now also just say the wake word "Alexa", much like the [Amazon Echo](https://amazon.com/echo). You can find step-by-step instructions to set up the hands-free prototype on [Raspberry Pi](../../wiki/Raspberry-Pi), or follow the instructions to set up the push-to-talk only prototype on [Linux](../../wiki/Linux), [Mac](../../wiki/Mac), or [Windows](../../wiki/Windows).
+This project provides a step-by-step walkthrough to help you build a **hands-free** [Alexa Voice Service](https://developer.amazon.com/avs) (AVS) prototype in 60 minutes, using wake word engines from [Sensory](https://github.com/Sensory/alexa-rpi) or [KITT.AI](https://github.com/Kitt-AI/snowboy). Now, in addition to pushing a button to "start listening", you can now also just say the wake word "Alexa", much like the [Amazon Echo](https://amazon.com/echo). You can find step-by-step instructions to set up the hands-free prototype on [Raspberry Pi](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi), or follow the instructions to set up the push-to-talk only prototype on [Linux](https://github.com/alexa/alexa-avs-sample-app/wiki/Linux), [Mac](https://github.com/alexa/alexa-avs-sample-app/wiki/Mac), or [Windows](https://github.com/alexa/alexa-avs-sample-app/wiki/Windows).
 
-*NEW!* - [Click here](../../wiki/Conexant2Mic-Raspberry-Pi) for instructions to build the AVS Prototype using a Raspberry Pi and the Conexant 2-Mic Development Kit for Amazon AVS
+*NEW!* - [Click here](https://github.com/alexa/alexa-avs-sample-app/wiki/Conexant2Mic-Raspberry-Pi) for instructions to build the AVS Prototype using a Raspberry Pi and the Conexant 2-Mic Development Kit for Amazon AVS
 
 ---
 
@@ -18,15 +18,15 @@ This project provides a step-by-step walkthrough to help you build a **hands-fre
 
 You can set up this project on the following platforms -
 
-* [Raspberry Pi](../wiki/Raspberry-Pi), or
-* [Linux](../wiki/Linux), or
-* [Mac](../wiki/Mac), or
-* [Windows](../wiki/Windows)  
+* [Raspberry Pi](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi), or
+* [Linux](https://github.com/alexa/alexa-avs-sample-app/wiki/Linux), or
+* [Mac](https://github.com/alexa/alexa-avs-sample-app/wiki/Mac), or
+* [Windows](https://github.com/alexa/alexa-avs-sample-app/wiki/Windows)  
 
 Or you can prototype with these third-party dev kits -
 
 * *New!* [Raspberry Pi + Conexant 4-mic Development Kit for Amazon AVS](https://github.com/conexant/alexa-avs-sample-app/wiki/Conexant4Mic-Raspberry-Pi)
-* [Raspberry Pi + Conexant 2-Mic Development Kit for Amazon AVS](../wiki/Conexant2Mic-Raspberry-Pi)  
+* [Raspberry Pi + Conexant 2-Mic Development Kit for Amazon AVS](https://github.com/alexa/alexa-avs-sample-app/wiki/Conexant2Mic-Raspberry-Pi)  
 
 ---
 
@@ -67,7 +67,7 @@ Or you can prototype with these third-party dev kits -
 
 *Known Issues*
 
-* To log out of the java sample app you must delete your `refresh_tokens` file in the `/samples/companionService` folder. Otherwise, the sample app will authenticate on each reboot. [Click here for log out instructions](../../wiki/Sample-App-Log-Out-Instructions).
+* To log out of the java sample app you must delete your `refresh_tokens` file in the `/samples/companionService` folder. Otherwise, the sample app will authenticate on each reboot. [Click here for log out instructions](https://github.com/alexa/alexa-avs-sample-app/wiki/Sample-App-Log-Out-Instructions).
 
 ---
 
