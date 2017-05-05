@@ -88,6 +88,6 @@ Or you can prototype with these third-party dev kits -
 ## Contribute 
 
 * Want to report a bug or request an update to the documentation? See [CONTRIBUTING.md](https://github.com/alexa/alexa-avs-sample-app/blob/master/CONTRIBUTING.md).
-* Having trouble? Check out our [troubleshooting guide](../../wiki/Troubleshooting).
+* Having trouble? Check out our [troubleshooting guide](https://github.com/alexa/alexa-avs-sample-app/wiki/Troubleshooting).
 * Have questions or need help building the sample app? Open a [new issue](https://github.com/alexa/alexa-avs-sample-app/issues/new).
 
